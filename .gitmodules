@@ -1,0 +1,3 @@
+[submodule "mdk-mobile"]
+	path = mdk-mobile
+	url = https://github.com/budioktaviyan/mdk-mobile.git
